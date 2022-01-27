@@ -103,7 +103,7 @@ body{
     }
   }
 
-  @media(max-width: 414px){
+  @media(max-width: 537px){
       #contenedor{
           flex-direction: column;
           width: 100%;
